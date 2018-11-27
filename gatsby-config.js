@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Dimension V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
+    title: "Formational - Product and Design Agency",
+    author: "Paddy Dewhurst",
+    description: "Formational is a product and design company in London, specialising in sport and healthcare web production"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
